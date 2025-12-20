@@ -6,8 +6,8 @@ body{
     width: 100%;
 }
 .slide img{
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 100vh;
 }
 .arrow{
     position: absolute;
@@ -40,3 +40,4 @@ body{
 .slide{
     display: none;
 }
+
